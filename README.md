@@ -2,4 +2,4 @@
 
 ## Educational exercice from Wild Code School
 
-This is a simple exercise to learn how to manage conflicts between local and onluine versions on a single project with Git and Github.
+This is a simple exercise to learn how to manage conflicts between local and online versions of a single project with Git and Github.
