@@ -1,7 +1,5 @@
-LOCAL
+# Quest "04 - Githug and Git: managing conflict"
 
-# esprizza
-WCS Quest "04 - Github et Git : gérer un conflit"
+## Educational exercice from Wild Code School
 
-J'écris quelques lignes comme le demande l'énoncé de la quête.
-
+This is a simple exercise to learn how to manage conflicts between local and onluine versions on a single project with Git and Github.
