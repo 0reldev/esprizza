@@ -1,4 +1,4 @@
-# Quest "04 - Githug and Git: managing conflict"
+# Quest "04 - Github and Git: managing conflict"
 
 ## Educational exercice from Wild Code School
 
